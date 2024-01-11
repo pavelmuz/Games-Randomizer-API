@@ -1,0 +1,5 @@
+games/__pycache__
+games/migrations/__pycache__
+games_randomizer/__pycache__
+
+.env
