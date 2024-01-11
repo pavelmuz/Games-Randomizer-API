@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-*3z%t-6us&(e)v2cr06!2@wa68t1)e(7z8dxamaj8st-pl55te
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['games-randomizer-api.onrender.com', 'localhost']
 
 
 # Application definition
