@@ -3,3 +3,4 @@ games/migrations/__pycache__
 games_randomizer/__pycache__
 
 .env
+.DS_Store
